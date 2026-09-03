@@ -27,6 +27,13 @@ The programs focus on:
 | [ATM Withdrawal](atm_withdrawal.py) | Conditional Logic & Validation |
 | [Logical Operators](logical_operators.py) | `and`, `or`, `not` |
 
+## ▶️ How to Run
+
+1. Make sure Python is installed on your computer.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/itsmekuntal007/python-beginner-programs.git
+
 ## 🛠️ Technologies Used
 
 - **Python 3**
