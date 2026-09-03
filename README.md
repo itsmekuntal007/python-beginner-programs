@@ -6,37 +6,26 @@ A collection of Python programs created while learning and practicing the fundam
 
 This repository contains beginner-friendly Python programs that I have written while developing my programming fundamentals.
 
-The programs cover basic concepts such as:
+The programs focus on:
 
-- Variables and Data Types
-- Input and Output
-- Arithmetic Operations
 - Conditional Statements
+- Nested Conditions
 - Logical Operators
-- Mathematical Operations
+- Decision Making
+- Mathematical Logic
 - Basic Problem Solving
 
-## 🗂️ Programs
+## 📂 Programs
 
 | Program | Concept |
 |--------|---------|
-| Largest of Two Numbers | Conditional Statements |
-| Temperature Converter | Arithmetic Operations |
-| Area of a Circle | Mathematical Operations |
-| Leap Year Checker | Conditional Statements |
-| Even or Odd Number | Conditional Statements |
-| Swapping Two Numbers | Variables |
-| Average of Three Numbers | Arithmetic Operations |
-| Voting Eligibility | Nested Conditions |
-| Positive, Negative or Zero | Conditional Statements |
-| Restaurant Ordering Logic | Nested Conditions |
-| Quadratic Equation Solver | `math` Module |
-| Data Types | Python Data Types |
-| Arithmetic Operations | Operators |
-| Largest of Three Numbers | Conditional Statements |
-| Grade Calculator | `if-elif-else` |
-| ATM Withdrawal | Conditional Logic |
-| Logical Operators | `and`, `or`, `not` |
+| [Voting Eligibility](voting_eligibility.py) | Nested Conditions & Logical Criteria |
+| [Restaurant Ordering System](restaurant_order.py) | Nested Conditions & Decision Making |
+| [Quadratic Equation Solver](quadratic_equation.py) | `math` Module & Mathematical Logic |
+| [Largest of Three Numbers](largest_of_three.py) | Multiple Comparisons |
+| [Grade Calculator](grade_calculator.py) | `if-elif-else` |
+| [ATM Withdrawal](atm_withdrawal.py) | Conditional Logic & Validation |
+| [Logical Operators](logical_operators.py) | `and`, `or`, `not` |
 
 ## 🛠️ Technologies Used
 
@@ -60,13 +49,10 @@ I plan to continue expanding this repository as I learn more Python concepts, in
 
 - Loops
 - Functions
-- Lists and Tuples
-- Dictionaries and Sets
 - Strings
+- Lists, Tuples & Dictionaries
 - File Handling
 - Object-Oriented Programming
 - Mini Projects
-
----
 
 **Learning Python one program at a time. 🐍**
